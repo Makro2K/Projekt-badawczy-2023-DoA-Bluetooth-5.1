@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../Projekt_badawczy"
+		}
+	],
+	"settings": {
+		"nrf-connect.applications": [
+			"${workspaceFolder}\\direction_finding_central"
+		]
+	}
+}
